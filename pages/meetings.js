@@ -16,7 +16,7 @@ function Meetings() {
               facebook
             </a>{" "}
             for all the latest meeting info and locations. Meetings are also
-            streamed to facebook.
+            streamed to Facebook.
           </h2>
           <div class="flex flex-wrap -mx-4 -mb-10 text-center bg-gradient-to-br from-blue-300 to-purple-100">
             <div class="sm:w-1/2 mb-10 px-4">
