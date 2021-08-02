@@ -31,7 +31,7 @@ function Meetings() {
                 General Meeting
               </h2>
               <p class="leading-relaxed text-base">
-                First Monday of the Month, 6:00pm
+                First Monday of the Month, 6:30pm
               </p>
             </div>
             <div class="sm:w-1/2 mb-10 px-4">
