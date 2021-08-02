@@ -5,11 +5,12 @@ const Header = () => (
         class="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0"
         href="/"
       >
+        {/*
         <img
           src="/images/lvyp logo_square.jpg"
           class="w-20 h-20 rounded-lg"
           alt="LVYP logo"
-        ></img>
+        ></img> */}
         <span class="ml-3 text-xl">LVYP Kiwanis</span>
       </a>
       <nav class="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-400	flex flex-wrap items-center text-base justify-center">
