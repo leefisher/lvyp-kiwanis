@@ -17,6 +17,10 @@ export default function Home() {
               opportunities and social connections for individuals who are young
               or young at heart.
             </p>
+            <img
+              src="/images/KI_Las-Vegas-Young-Professionals_BLUEGOLD-01.png"
+              alt="LVYP KI Logo"
+            ></img>
           </div>
           <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
             <img
