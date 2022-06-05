@@ -28,10 +28,10 @@ function Meetings() {
                 />
               </div>
               <h2 class="title-font text-2xl font-medium text-gray-900 mt-6 mb-3">
-                General Meeting
+                Service/General Meeting
               </h2>
               <p class="leading-relaxed text-base">
-                First Monday of the Month, 6:30pm
+                First Sunday of the Month, 1:30pm
               </p>
             </div>
             <div class="sm:w-1/2 mb-10 px-4">
@@ -43,10 +43,10 @@ function Meetings() {
                 />
               </div>
               <h2 class="title-font text-2xl font-medium text-gray-900 mt-6 mb-3">
-                Service Meeting
+                Board Meeting
               </h2>
               <p class="leading-relaxed text-base">
-                Third Saturday of the Month, 6:00pm
+                Third Tuesday of the Month, 6:30pm
               </p>
             </div>
           </div>
